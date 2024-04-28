@@ -11,3 +11,4 @@ https://github.com/lll-zy/text-guided-image-video-editing/assets/76684447/30e975
 Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 https://github.com/showlab/Tune-A-Video
 
+![image](https://github.com/lll-zy/text-guided-image-video-editing/blob/main/img2.png)
